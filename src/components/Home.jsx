@@ -15,7 +15,7 @@ const Home = () => {
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             I'm a Software Developer
           </h2>
-          <p className="text-gray-500 py-4 max-w-md text-justify text-base text-yellow-900">
+          <p className="text-gray-500 py-4 max-w-md text-justify text-base text-gray-100">
             A Web and Mobile Associate Developer with primary focus on Front-end & Android development(Java &
             kotlin)
           </p>
