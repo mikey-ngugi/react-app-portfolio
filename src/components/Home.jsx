@@ -14,7 +14,7 @@ const Home = () => {
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         <div className="flex flex-col justify-center h-full">
           
-          <h2 className="text-4xl sm:text-7xl font-bold text-white">
+          <h2 className="text-sm	font-size: 0.875rem; sm:text-7xl font-bold text-white">
             I'm a Software Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md text-justify text-base text-gray-100">
@@ -43,10 +43,10 @@ const Home = () => {
           </div>
           <div className="text-blue-900 text-sm content-center	align-content: center">
           <br/><a href= "https://www.linkedin.com/in/michael-ngugi-208b60191/" target="_blank"
-            rel="noreferrer"><FaLinkedin size={25} /></a>
+            rel="noreferrer"><FaLinkedin size={19} /></a>
           <br/><a href= "https://github.com/mikey-ngugi" target="_blank"
-            rel="noreferrer"><FaGithub size={25} /></a>
-          <br/><a href= "mailto:mikeyngugi63@gmail.com"><HiOutlineMail size={25} /></a>
+            rel="noreferrer"><FaGithub size={19} /></a>
+          <br/><a href= "mailto:mikeyngugi63@gmail.com"><HiOutlineMail size={19} /></a>
           </div>
         </div>
         
